@@ -13,6 +13,9 @@ apt-get install -y ros-kinetic-husky-simulator
 docker commit <container> <imagename>:<tag>
 docker run -ti --rm -e DISPLAY=$DISPLAY <imagename>:<tag>
 
+#check your image with 
+docker images 
+
 # in docker container
 roscore&
  -  rosrun gazebo_ros gazebo

@@ -4,3 +4,9 @@ keras
 tensorflow 
 
 helloworld: http://keras.dhpit.com/
+
+ 3D vision (features, geometry, bundle adjustment, SLAM, visual-inertial) and deep learning (basics, classification, segmentation) 
+
+Google Colab https://colab.research.google.com
+
+Anaconda + Spyder

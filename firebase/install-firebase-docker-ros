@@ -1,0 +1,17 @@
+#install pip
+apt install python-pip
+
+pip install virtualenv
+virtualenv <your-env>
+source <your-env>/bin/activate
+pip install google-cloud-firestore
+pip install --upgrade google-cloud-firestore
+
+export GOOGLE_APPLICATION_CREDENTIALS="/home/user/Downloads/[FILE_NAME].json"
+
+
+https://cloud.google.com/firestore/docs/quickstart-servers
+
+
+
+https://firebase.google.com/docs/firestore/quickstart

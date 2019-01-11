@@ -1,8 +1,10 @@
 #install pip
 apt install python-pip
 
-pip install virtualenv
-virtualenv <your-env>
+#pip install virtualenv
+#virtualenv <your-env>
+
+python3 -m venv <your-env>
 source <your-env>/bin/activate
 pip install google-cloud-firestore
 pip install --upgrade google-cloud-firestore

@@ -1,0 +1,13 @@
+#Launch docker
+docker run -it --rm ros:kinetic-ros-core bash
+
+#create a package
+http://wiki.ros.org/ROS/Tutorials/CreatingPackage
+
+#create publisher and subscriber
+http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29
+
+#commit docker image
+docker commit <container> <imagename>:<tag>
+
+

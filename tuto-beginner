@@ -10,6 +10,9 @@ http://wiki.ros.org/ROS/Tutorials/WritingPublisherSubscriber%28python%29
 #commit docker image
 docker commit <container> <imagename>:<tag>
 
+# add srv 
+http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv
+
 #create client and local_laundry_service
 http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29
 

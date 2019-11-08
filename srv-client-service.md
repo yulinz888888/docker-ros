@@ -2,6 +2,7 @@
 ```
 cd ~/catkin_ws/src/beginner_tutorials
 mkdir srv
+cd srv
 touch AddTwoInts.srv
 ```
 

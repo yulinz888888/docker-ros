@@ -16,4 +16,7 @@ http://wiki.ros.org/ROS/Tutorials/CreatingMsgAndSrv
 #create client and local_laundry_service
 http://wiki.ros.org/ROS/Tutorials/WritingServiceClient%28python%29
 
+#install Tutorials
+apt-get install ros-kinetic-ros-tutorials
+
 
